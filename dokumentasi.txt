@@ -1,0 +1,3 @@
+install express dan mysql
+intall ejs untuk template engine
+ -> gimana caranya biar datanya bisa dilempar sbgai html dan dipakai di html
